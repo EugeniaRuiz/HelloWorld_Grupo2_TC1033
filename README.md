@@ -57,7 +57,7 @@
   
 [title](https://www.markdownguide.org/cheat-sheet/)
   
-![title](GitHub foto.jpeg)
+![title](playita.jpeg)
   
   
   
