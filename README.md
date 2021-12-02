@@ -56,6 +56,7 @@
 ----
   
 [mardownguide.org](https://www.markdownguide.org/cheat-sheet/)
+
 ![Relajada en una playa del Caribe](playita.jpeg)
   
   
