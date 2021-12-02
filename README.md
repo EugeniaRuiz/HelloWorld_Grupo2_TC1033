@@ -1,5 +1,6 @@
 ## HelloWorld_Grupo2_TC1033
 # Eugenia Ruiz Velasco Olvera
+# Colaboradora Ana Sofía Argüelles
 ## Laboratorio - branch - commits  - pull request - merge - markdown
 
 
